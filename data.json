@@ -6,6 +6,7 @@
             "version": "1.0.0"
         },
         {
+            "name": "My-SS",
             "resource": "SS_Deposveh",
             "ip": "110.169.156.42",
             "version": "1.0.0"
