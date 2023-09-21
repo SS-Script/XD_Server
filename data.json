@@ -1,6 +1,18 @@
 {
     "data": [
         {
+            "resource": "SS_Jailmenu",
+            "ip": "103.22.182.102",
+            "version": "1.0.0"
+        },
+        {
+            "resource": "SS_Jailmenu",
+            "ip": "110.169.156.16",
+            "version": "1.0.0"
+        },
+
+
+        {
             "resource": "SS_Deposveh",
             "ip": "103.22.182.102",
             "version": "1.0.0"
